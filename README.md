@@ -1,5 +1,5 @@
 # KOReader WebDAV Highlights Exporter
-This script expands the existing exporter options and allows you to export your highlights in markdown format to a WebDAV target.
+This script expands the existing exporter options to allow export of your highlights in markdown format to a WebDAV target.
 
 ### Instructions
 - Add webdav.lua to your plugins/exporter.plugin/target directory
