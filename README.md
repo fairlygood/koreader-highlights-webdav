@@ -16,7 +16,7 @@ This script allows you to export your highlights in markdown format to a WebDAV 
     text = require("target/text"),
     xmnote = require("target/xmnote"),
     webdav = require("target/webdav"), <= ADD THIS LINE
-}
-```
+  }
+  ```
 - In you settings menu, click Export Highlights / Choose formats and services / WebDAV (Markdown) / Configure WebDAV and enter your credentials.
 - Enable the exporter
